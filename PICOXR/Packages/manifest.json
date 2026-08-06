@@ -3,6 +3,7 @@
     "com.bytedance.pico.mcp-extensions": "https://github.com/Pico-Developer/Unity-MCP-Extensions.git#main",
     "com.bytedance.pico.spatialadapter": "https://github.com/Pico-Developer/PICO-Unity-SDK.git?path=/SpatialAdapter#main",
     "com.bytedance.pico.xr": "https://github.com/Pico-Developer/PICO-Unity-SDK.git?path=/XR#main",
+    "com.bytedance.ide.trae": "https://github.com/Pico-Developer/TRAE-Editor-Unity.git?path=/XR#main",
     "com.plattar.unitygltf": "https://github.com/Pico-Developer/gltf-exporter.git?path=package/com.plattar.unitygltf#master",
     "com.unity.ai.assistant": "2.17.0-pre.1",
     "com.unity.ai.navigation": "2.0.12",
