@@ -400,7 +400,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_enabled: 1
   nameUi: OpenXR Display Refresh Rate
-  version: 6.0.0
+  version: 6.1.1
   featureIdInternal: com.pico.openxr.feature.refreshrate
   openxrExtensionStrings: XR_FB_display_refresh_rate
   company: PICO
@@ -556,7 +556,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_enabled: 1
   nameUi: OpenXR Passthrough
-  version: 6.0.0
+  version: 6.1.1
   featureIdInternal: com.pico.openxr.feature.passthrough
   openxrExtensionStrings: XR_FB_passthrough
   company: PICO
@@ -600,7 +600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_enabled: 1
   nameUi: OpenXR Composition Layer Secure Content
-  version: 6.0.0
+  version: 6.1.1
   featureIdInternal: com.pico.openxr.feature.LayerSecureContent
   openxrExtensionStrings: XR_FB_composition_layer_secure_content
   company: PICO
@@ -688,7 +688,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_enabled: 1
   nameUi: PICO XR Support
-  version: 6.0.0
+  version: 6.1.1
   featureIdInternal: com.unity.openxr.feature.pico
   openxrExtensionStrings: XR_PICO_controller_interaction XR_PICO_view_state
   company: PICO
@@ -757,7 +757,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_enabled: 1
   nameUi: PICO Body Tracking
-  version: 6.0.0
+  version: 6.1.1
   featureIdInternal: com.pico.openxr.feature.PICO_BodyTracking
   openxrExtensionStrings: XR_BD_body_tracking XR_PICO_body_tracking2
   company: PICO
@@ -918,7 +918,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_enabled: 1
   nameUi: PICO Facial Simulation
-  version: 6.0.0
+  version: 6.1.1
   featureIdInternal: com.pico.openxr.feature.PICO_FacialSimulation
   openxrExtensionStrings: XR_BD_facial_simulation
   company: PICO
@@ -1235,7 +1235,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_enabled: 1
   nameUi: PICO OpenXR Features
-  version: 6.0.0
+  version: 6.1.1
   featureIdInternal: com.unity.openxr.pico.features
   openxrExtensionStrings: 'XR_FB_composition_layer_alpha_blend XR_FB_triangle_mesh
     XR_KHR_composition_layer_color_scale_bias XR_KHR_composition_layer_cylinder XR_KHR_composition_layer_equirect2
@@ -1309,7 +1309,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_enabled: 1
   nameUi: OpenXR Foveation
-  version: 6.0.0
+  version: 6.1.1
   featureIdInternal: com.pico.openxr.feature.foveation
   openxrExtensionStrings: 'XR_FB_foveation XR_FB_foveation_configuration XR_FB_foveation_vulkan
     XR_META_foveation_eye_tracked XR_META_vulkan_swapchain_create_info XR_FB_swapchain_update_state '
