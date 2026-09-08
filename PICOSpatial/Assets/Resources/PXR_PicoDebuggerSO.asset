@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2e0a90bb5cd1f4084a2c39abb6b1dee2, type: 3}
   m_Name: PXR_PicoDebuggerSO
   m_EditorClassIdentifier: 
-  version: 0.3.1
+  version: 0.4.2
   isOpen: 0
   startPosition: 0
-  inputActionAsset: {fileID: -944628639613478452, guid: f0a34fcd793146f4eada7adfef50ba47, type: 3}
+  inputActionAsset: {fileID: 0}
   maxInfoCount: 500
   worldPositionStep: 1
   localPositionStep: 1
   worldRotationStep: 1
   localRotationStep: 1
+  worldScaleStep: 1

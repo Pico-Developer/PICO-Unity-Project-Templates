@@ -823,7 +823,7 @@ PlayerSettings:
   webGLCloseOnQuit: 0
   webWasm2023: 0
   scriptingDefineSymbols:
-    Android: PICO_SPATIALIZER;PICO_MS_SDK
+    Android: PICO_SPATIALIZER;ENABLE_PICO_INTERACTION_PACK;PICO_MS_SDK
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
