@@ -46,6 +46,8 @@ MonoBehaviour:
   environmentDepth: 0
   lightEstimation: 0
   lightEstimationTextureResolution: 0
+  objectTracking: 0
+  keyboardPassthrough: 0
   arFoundation: 0
   mrSafeguard: 0
   enableRecommendMSAA: 0

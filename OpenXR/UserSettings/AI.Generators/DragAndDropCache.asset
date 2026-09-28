@@ -11,6 +11,6 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ee35c10b054e47e0ad87656f211688fc, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier: Unity.AI.Generators.UI::Unity.AI.Generators.UI.Utilities.DragAndDropCache
   entries:
     serializedData: []

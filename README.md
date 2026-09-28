@@ -17,14 +17,14 @@
 三个模板当前使用的 Unity Editor 版本一致：
 
 ```text
-6000.0.73f1
+6000.3.25f1
 ```
 
 建议使用相同版本的 Unity 打开工程，以减少包解析、工程设置或导入结果差异。
 
 ### 使用方式
 
-1. 安装 Unity `6000.0.73f1`，并确保已安装 Android Build Support。
+1. 安装 Unity `6000.3.25f1`，并确保已安装 Android Build Support。
 2. 根据需要选择模板目录：
    - 使用 PICO XR 模式时，打开 `PICOXR`。
    - 使用 Unity OpenXR 模式时，打开 `OpenXR`。
@@ -81,14 +81,14 @@ This repository contains three PICO Unity SDK project templates for the PICO XR,
 All three templates currently use the same Unity Editor version:
 
 ```text
-6000.0.73f1
+6000.3.25f1
 ```
 
 It is recommended to open the projects with the same Unity version to reduce differences in package resolution, project settings, and imported assets.
 
 ### Usage
 
-1. Install Unity `6000.0.73f1` and make sure Android Build Support is installed.
+1. Install Unity `6000.3.25f1` and make sure Android Build Support is installed.
 2. Choose the template directory based on your integration mode:
    - Open `PICOXR` for the PICO XR mode.
    - Open `OpenXR` for the Unity OpenXR mode.
